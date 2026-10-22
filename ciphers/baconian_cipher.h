@@ -1,0 +1,4 @@
+class Baconian_Cipher
+{
+
+};
